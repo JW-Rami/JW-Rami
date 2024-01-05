@@ -1,4 +1,4 @@
-# :wave: Hi there  <img width="80" src="https://media.giphy.com/media/fvrL3qgQiMjg3GvBas/giphy.gif](https://tenor.com/i9YrQHyojeR.gif)">
+# :wave: Hi there  <img width="80" src="https://media.giphy.com/media/fvrL3qgQiMjg3GvBas/giphy.gif](https://tenor.com/i9YrQHyojeR.gif)](https://media.tenor.com/aMsGon6u7TcAAAAi/naruto-naruto-run.gif">
 
 <!--
 **JW-Rami/JW-Rami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

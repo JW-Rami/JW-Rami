@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer & Entrepeneur
 --------------------------------
 
-I'm passionate about tech and everything to do with privacy and open source. I've been a contractor for 3 years, working mainly on crypto and Bitcoin projects. I'm an avid learner, always open to improve and learn new technos.
+I'm passionate about tech and everything to do with privacy and open source. I've been an entrepreneur for 3 years, working mainly on crypto and Bitcoin projects. I'm an avid learner, always open to improve and learn new technos.
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [rami@jwcorp.fr](mailto:rami@jwcorp.fr)

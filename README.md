@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
  <img width="100" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNtOTZuN2ZqeWV2NjJ4NGxhY2p0eWpxbGpwdnYyOTM2N2NzdWZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif"/> 
  
-Developer & Entrepeneur
+Frontend Engineer & Entrepeneur
 --------------------------------
 
-I'm passionate about tech and everything to do with privacy and open source. I've been an entrepreneur for 3 years, working mainly on crypto and Bitcoin projects. I'm an avid learner, always open to improve and learn new technos.
+I'm passionate about tech and everything to do with privacy and open source. I've been an entrepreneur for 5 years, working mainly on crypto and Bitcoin projects. I'm an avid learner, always open to improve and learn new technos.
 
-* 🌍  I'm based in Paris
+* 🌍  I'm based in Dubai
 * ✉️  You can contact me at [rami@jwcorp.fr](mailto:rami@jwcorp.fr)
 * 🤝  I'm open to collaborating on Open source projects
 
